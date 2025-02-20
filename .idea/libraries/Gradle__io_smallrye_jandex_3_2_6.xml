@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: io.smallrye:jandex:3.2.6" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="io.smallrye" artifactId="jandex" version="3.2.6" baseVersion="3.2.6" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.smallrye/jandex/3.2.6/b8758b07d42878b4858146ba953f22aa64eb2c2e/jandex-3.2.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

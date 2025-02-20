@@ -11,7 +11,6 @@
         </processorPath>
         <module name="template.loader.main" />
         <module name="template.core.main" />
-        <module name="template.gateway.main" />
       </profile>
       <profile name="Gradle Imported" enabled="true">
         <outputRelativeToContentRoot value="true" />
@@ -20,7 +19,6 @@
         </processorPath>
         <module name="template.loader.test" />
         <module name="template.core.test" />
-        <module name="template.gateway.test" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="21" />

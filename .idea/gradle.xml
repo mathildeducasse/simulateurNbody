@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/../../../Tests, qualité et CI/TP2/simulateurNbody" />
-            <option value="$PROJECT_DIR$/../../../Tests, qualité et CI/TP2/simulateurNbody/core" />
-            <option value="$PROJECT_DIR$/../../../Tests, qualité et CI/TP2/simulateurNbody/gateway" />
-            <option value="$PROJECT_DIR$/../../../Tests, qualité et CI/TP2/simulateurNbody/loader" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/core" />
+            <option value="$PROJECT_DIR$/gateway" />
+            <option value="$PROJECT_DIR$/loader" />
           </set>
         </option>
       </GradleProjectSettings>

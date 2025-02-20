@@ -4,8 +4,17 @@ import com.example.nbody.model.Body;
 import java.util.List;
 
 public class NBodySimulation {
+    //La gravité
     private static final double G = 6.67430e-11;
 
+    //Entrée :    - Une lise de bodies (de type Body) qui sont dans notre simulation
+                //- Le pas de temps (un double), Plus il est grand, plus la vitesse
+    //          change rapidement, ce qui peut affecter la précision de la simulation.
+    //          Il affectera aussi le temps de calcul.
+    // Cette fonction permet de simuler l'évolution des corps célestes sur un petit
+    // intervalle de temps (le pas de temps) en appliquant les lois de la gravité de Newton.
+    // Elle doit être appelée à chaque itération d'une boucle de simulation pour faire
+    // évoluer les corps dans l'espace au fil du temps.
     public void step(List<Body> bodies, double dt) {
         for (Body b1 : bodies) {
             double ax = 0, ay = 0;
