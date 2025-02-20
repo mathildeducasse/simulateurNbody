@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.fasterxml.jackson.module:jackson-module-jakarta-xmlbind-annotations:2.18.2" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.fasterxml.jackson.module" artifactId="jackson-module-jakarta-xmlbind-annotations" version="2.18.2" baseVersion="2.18.2" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.module/jackson-module-jakarta-xmlbind-annotations/2.18.2/b801caf12e4541dfd8e28e3680dc04277fcf2311/jackson-module-jakarta-xmlbind-annotations-2.18.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

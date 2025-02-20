@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: io.quarkus:quarkus-vertx-http:3.18.3" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="io.quarkus" artifactId="quarkus-vertx-http" version="3.18.3" baseVersion="3.18.3" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.quarkus/quarkus-vertx-http/3.18.3/f02d2e7ebf4f61eee7bb41f72979edd4905ea9c8/quarkus-vertx-http-3.18.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
