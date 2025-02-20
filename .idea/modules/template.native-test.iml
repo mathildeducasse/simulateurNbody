@@ -3,6 +3,10 @@
   <component name="NewModuleRootManager">
     <output url="file://$MODULE_DIR$/../../build/classes/java/native-test" />
     <exclude-output />
+    <content url="file://$MODULE_DIR$/../../src/native-test">
+      <sourceFolder url="file://$MODULE_DIR$/../../src/native-test/java" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../src/native-test" />
     <content url="file://$MODULE_DIR$/../../src/native-test" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
