@@ -6,10 +6,24 @@
     <content url="file://$MODULE_DIR$/../../build/classes/java/quarkus-generated-sources">
       <sourceFolder url="file://$MODULE_DIR$/../../build/classes/java/quarkus-generated-sources" isTestSource="false" />
     </content>
+    <content url="file://$MODULE_DIR$/../../build/classes/java/quarkus-generated-sources">
+      <sourceFolder url="file://$MODULE_DIR$/../../build/classes/java/quarkus-generated-sources" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../build/classes/java/quarkus-generated-sources" />
+    <content url="file://$MODULE_DIR$/../../build/classes/java/quarkus-generated-sources" />
     <content url="file://$MODULE_DIR$/../../build/classes/java/quarkus-generated-sources" />
     <content url="file://$MODULE_DIR$/../../build/classes/java/quarkus-generated-sources" />
     <content url="file://$MODULE_DIR$/../../build/generated/sources/annotationProcessor/java/main">
       <sourceFolder url="file://$MODULE_DIR$/../../build/generated/sources/annotationProcessor/java/main" isTestSource="false" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/java" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/java" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/java" isTestSource="false" />
     </content>
     <content url="file://$MODULE_DIR$/../../src/main">
       <sourceFolder url="file://$MODULE_DIR$/../../src/main/java" isTestSource="false" />

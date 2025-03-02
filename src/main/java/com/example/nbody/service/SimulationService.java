@@ -37,4 +37,10 @@ public class SimulationService {
         simulation.step(bodies, dt);
         return bodies;
     }
+
+    //Entrée : Un body de type Body que l'on souhaite rajouter à la simulation
+    //Cette fonction permet de rajouter un body à notre liste de body.
+    public void addBody(Body body) {
+        simulation.addBody(bodies, body);
+    }
 }

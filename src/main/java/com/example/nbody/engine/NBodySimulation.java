@@ -59,5 +59,22 @@ public class NBodySimulation {
             b.setY(b.getY() + b.getVy() * dt);
         }
     }
+    //Entrée : - Un body de type Body que l'on souhaite rajouter à la simulation
+    //         - Une liste de Body
+    //Cette fonction permet de rajouter un body à notre liste de body.
+    public void addBody(List<Body> list, Body body) {
+        // Gestion des cas d'entrée invalide
+        if (list == null) {
+            throw new IllegalArgumentException("La liste ne peut pas être null");
+        }
+        if (body == null) {
+            throw new IllegalArgumentException("Le body ne peut pas être null");
+        }
+        // Empêcher l'ajout d'un body déjà existant dans la liste
+        if (list.contains(body)) {
+            throw new IllegalArgumentException("Le body est déjà présent dans la liste");
+        }
+        list.add(body);
+    }
 
 }

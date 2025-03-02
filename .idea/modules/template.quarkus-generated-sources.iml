@@ -6,6 +6,9 @@
     <content url="file://$MODULE_DIR$/../../src/quarkus-generated-sources" />
     <content url="file://$MODULE_DIR$/../../src/quarkus-generated-sources" />
     <content url="file://$MODULE_DIR$/../../src/quarkus-generated-sources" />
+    <content url="file://$MODULE_DIR$/../../src/quarkus-generated-sources" />
+    <content url="file://$MODULE_DIR$/../../src/quarkus-generated-sources" />
+    <content url="file://$MODULE_DIR$/../../src/quarkus-generated-sources" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>

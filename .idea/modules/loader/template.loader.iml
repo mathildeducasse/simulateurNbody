@@ -22,6 +22,20 @@
       <excludeFolder url="file://$MODULE_DIR$/../../../loader/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../loader/build" />
     </content>
+    <content url="file://$MODULE_DIR$/../../../loader">
+      <excludeFolder url="file://$MODULE_DIR$/../../../loader/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../loader/build" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../loader">
+      <excludeFolder url="file://$MODULE_DIR$/../../../loader/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../loader/build" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../loader">
+      <excludeFolder url="file://$MODULE_DIR$/../../../loader/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../loader/build" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../loader" />
+    <content url="file://$MODULE_DIR$/../../../loader" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
