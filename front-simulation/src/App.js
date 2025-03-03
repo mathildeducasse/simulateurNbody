@@ -52,7 +52,7 @@ export default function NBodySimulation() {
   // Gère l'ajout d'un nouveau corps
   const handleAddBody = async () => {
     try {
-      const response = await fetch("http://localhost:8080/api/simulation/add", {
+      const response = await fetch("http://localhost:8080/api/simulation/addBody", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(newBody),
