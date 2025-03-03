@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: io.quarkus.http:quarkus-http-websocket-core:5.3.4" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="io.quarkus.http" artifactId="quarkus-http-websocket-core" version="5.3.4" baseVersion="5.3.4" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.quarkus.http/quarkus-http-websocket-core/5.3.4/2a76b8c10a4570437325b8478db57daeda592990/quarkus-http-websocket-core-5.3.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
