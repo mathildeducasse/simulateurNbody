@@ -15,7 +15,7 @@ export const WebSocketProvider = ({ children }) => {
     };
 
     useEffect(() => {
-        const ws = new WebSocket("ws://localhost:8080/ws");
+        const ws = new WebSocket("ws://localhost:8080/nbody");
 
         ws.onopen = () => console.log("WebSocket connecté");
         ws.onmessage = (msg) => {
